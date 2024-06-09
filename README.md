@@ -5,6 +5,17 @@ My fetch written on bash!
 ![image](https://github.com/tasory/catfetch-ts/assets/83129333/5ae3cfe8-e484-41db-9856-5d5e02ae7ad7)
 
 ## Instalation
+
+### Dependencies 
+**Arch**:
+```
+sudo pacman -S playerctl
+```
+**Debian**:
+```
+sudo apt install playerctl
+```
+### Installation 
 ```
 git clone https://github.com/tasory/catfetch-ts/
 cd catfetch-ts
