@@ -1,7 +1,8 @@
 # catfetch-ts
 My fetch written on bash!
  (ts means tasory)
-![image](https://github.com/tasory/catfetch-ts/assets/83129333/7ddd397c-b55c-48d0-9148-a97d2e98de0c)
+ 
+![338361034-7ddd397c-b55c-48d0-9148-a97d2e98de0c](https://github.com/tasory/catfetch-ts/assets/83129333/c84bd979-6b30-45b4-ab22-33e624716b34)
 
 ## Instalation
 
