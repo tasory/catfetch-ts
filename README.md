@@ -7,14 +7,8 @@ My fetch written on bash!
 ## Instalation
 
 ### Dependencies 
-**Arch**:
-```
-sudo pacman -S playerctl
-```
-**Debian**:
-```
-sudo apt install playerctl
-```
+**playerctl** and **nerd fonts**
+
 ### Installation 
 ```
 git clone https://github.com/tasory/catfetch-ts/
